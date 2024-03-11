@@ -12,7 +12,8 @@ import java.util.Scanner;
  public class DoynekoDz1{
  public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        
+
+        System.out.println("Дойнеко Юлия Антоновна. Вариант 1");
         System.out.print("Введи название автомобиля на английском: ");
         String brand = scanner.nextLine();
         
